@@ -1,5 +1,7 @@
 ## Contoso Sales
 
+You can download the PBIX file, or visit the Web Published [Contoso Sales](https://app.powerbi.com/view?r=eyJrIjoiYzc3MGM2ZjQtMmFjNS00YzY0LTgzZmYtZDM0NzZiYjM3NTI3IiwidCI6IjZjNmI0MTlhLWU2ZjMtNGZiMi1iOGMzLWU3ZDg3Y2JjMWQ2MyJ9)
+
 **Dataset**
 For this project, I used the [Contoso Sales Sample Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=46801), from Microsoft.
 I made few changes on the dataset:
