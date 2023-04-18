@@ -2,7 +2,7 @@
 
 You can download the [PBIX](https://github.com/maxilafo/Power_BI/blob/a494ac88c32b32aaf0e3fcb13a7fed8ebc514911/Contoso%20Sales/Contoso%20Sales.pbix) file, or visit the [Web Published](https://app.powerbi.com/view?r=eyJrIjoiYzc3MGM2ZjQtMmFjNS00YzY0LTgzZmYtZDM0NzZiYjM3NTI3IiwidCI6IjZjNmI0MTlhLWU2ZjMtNGZiMi1iOGMzLWU3ZDg3Y2JjMWQ2MyJ9) for viewing the project
 
-**Dataset**
+**Dataset**  
 For this project, I used the [Contoso Sales Sample Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=46801), from Microsoft.
 I made few changes on the dataset:
 
