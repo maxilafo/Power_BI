@@ -1,0 +1,1 @@
+For this project, I used the [Contoso Sales Sample Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=46801), from Microsoft, which is a Power BI file. I extracted all info in Excel files.
