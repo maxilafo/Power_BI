@@ -1,4 +1,4 @@
-__This project was part of the competition [Maven Northwind Challenge](https://mavenanalytics.io/challenges/maven-northwind-challenge/24), which had nearly 300 entries, and although this project did not win, I received an honourable mention.__ *
+__This project was part of the competition [Maven Northwind Challenge](https://mavenanalytics.io/challenges/maven-northwind-challenge/24), which had nearly 300 entries, and although this project did not win, I received an honourable mention.__ (1)
 >_"Maximiliano Lafosse showcased some really solid design skills and kept the focus on just a handful of relevant metrics for the executives"_ 
 
 The goal of this project is to develop a __KPI dashboard with key metrics for top-level executive team__, so I kept it as simple as possible to ease the readability to answer the most overall important questions for high level executives, while taking care of a good design.
@@ -33,4 +33,4 @@ What's the total cost of shipping?
 What's the % cost of shipping? And the trend?
 Disclosure by Shipper Company
 
-* [Honorable mention](https://www.youtube.com/watch?v=vz5QHbGzSqY&t=170s)
+(1) [Honorable mention](https://www.youtube.com/watch?v=vz5QHbGzSqY&t=170s)
