@@ -28,9 +28,9 @@ __Key Customers:__
 
 __Shipping Costs:__
 
-What's the average freight cost?
-What's the total cost of shipping?
-What's the % cost of shipping? And the trend?
-Disclosure by Shipper Company
+>What's the average freight cost?
+>What's the total cost of shipping?
+>What's the % cost of shipping? And the trend?
+>Disclosure by Shipper Company
 
 <sup>(1)</sup> [Honorable mention](https://www.youtube.com/watch?v=vz5QHbGzSqY&t=170s)
