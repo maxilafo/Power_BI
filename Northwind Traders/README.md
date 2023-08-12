@@ -7,26 +7,26 @@ Executive team will look for overall performance metric, so no need of high deta
 
 I covered for the 4 sections required by the project, the following questions:
 
-_Sales:_
+__Sales:__
 
 >What's the overall YTD Sales company?
 >What is the sales progress compared to the previous year?
 >What's the overall YTD Margin?
 >How many orders were shipped?
 
-_Products Performance:_
+__Products Performance:__
 
 >Which one are the TOP 5 sales products?
 >What's the sales of each product category?
 >What's the % Margin sales of each product category?
 >How many units were sold on each product category?
 >
-_Key Customers:_
+__Key Customers:__
 
 >Which one are the TOP 5 Customers, and their sales?
 >What percentage do they represent of total sales?
 
-_Shipping Costs:_
+__Shipping Costs:__
 
 What's the average freight cost?
 What's the total cost of shipping?
