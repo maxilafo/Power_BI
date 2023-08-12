@@ -9,10 +9,10 @@ I covered for the 4 sections required by the project, the following questions:
 
 *Sales:*
 
-What's the overall YTD Sales company?
-What is the sales progress compared to the previous year?
-What's the overall YTD Margin?
-How many orders were shipped?
+>What's the overall YTD Sales company?
+>What is the sales progress compared to the previous year?
+>What's the overall YTD Margin?
+>How many orders were shipped?
 
 *Products Performance:*
 
