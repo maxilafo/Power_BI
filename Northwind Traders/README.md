@@ -11,28 +11,28 @@ I covered for the 4 sections required by the project, the following questions:
 
 __Sales:__
 
->What's the overall YTD Sales company?
->What is the sales progress compared to the previous year?
->What's the overall YTD Margin?
->How many orders were shipped?
+* What's the overall YTD Sales company?
+* What is the sales progress compared to the previous year?
+* What's the overall YTD Margin?
+* How many orders were shipped?
 
 __Products Performance:__
 
->Which one are the TOP 5 sales products?
->What's the sales of each product category?
->What's the % Margin sales of each product category?
->How many units were sold on each product category?
->
+* Which one are the TOP 5 sales products?
+* What's the sales of each product category?
+* What's the % Margin sales of each product category?
+* How many units were sold on each product category?
+
 __Key Customers:__
 
->Which one are the TOP 5 Customers, and their sales?
->What percentage do they represent of total sales?
+* Which one are the TOP 5 Customers, and their sales?
+* What percentage do they represent of total sales?
 
 __Shipping Costs:__
 
->What's the average freight cost?
->What's the total cost of shipping?
->What's the % cost of shipping? And the trend?
->Disclosure by Shipper Company
+* What's the average freight cost?
+* What's the total cost of shipping?
+* What's the % cost of shipping? And the trend?
+* Disclosure by Shipper Company
 
 <sup>(1)</sup> [Honorable mention](https://www.youtube.com/watch?v=vz5QHbGzSqY&t=170s)
