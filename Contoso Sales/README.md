@@ -7,7 +7,7 @@ I used techniques such as:
 * Bookmarks
 * Drilltroughs
 * VAR/RETURN functions in DAX
-
+* Data Modeling
 
 ## About this project
 
