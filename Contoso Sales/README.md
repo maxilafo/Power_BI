@@ -24,5 +24,5 @@ I made few changes on the dataset:
 This project includes 3 pages:
 
 Sales: with global metrics and overview data  
-KPI dashboard: for targets follow up. Also colors will change based on the target advance  
+KPI dashboard: for targets follow up. Also colors will change based on the target advance (<90% red ; 90% <= yellow < 100% ; >100% green)
 YoY: for comparisons with previous period
