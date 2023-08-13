@@ -2,7 +2,7 @@ __This project was part of the competition [Maven Northwind Challenge](https://m
 >_"Maximiliano Lafosse showcased some really solid design skills and kept the focus on just a handful of relevant metrics for the executives"_
 
 
-<img src="https://ibb.co/PQqy6Pd" >
+<img src="https://ibb.co/PQqy6Pd"  height="60" width="60" >
 
 ## About this project
 
