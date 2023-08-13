@@ -18,7 +18,6 @@
     <li>I don&apos;t observe any kind of general stationary on demand.</li>
     <li>The dataset doesn&apos;t provide quality information to calculate the inventory turnover rate.</li>
 </ul>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><strong>SHIPMENTS</strong></p>
 <ul class="decimal_type" style="list-style-type: disc;">
     <li>The overall on-time delivery rate is 55%, which is a very low rate for customer satisfaction.</li>
