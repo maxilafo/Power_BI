@@ -35,4 +35,4 @@ __Shipping Costs:__
 * What's the % cost of shipping? And the trend?
 * Disclosure by Shipper Company
 
-<sup>(1)</sup> [Honorable mention](https://www.youtube.com/watch?v=vz5QHbGzSqY&t=170s)
+<sup>(1)</sup> [Honourable mention](https://www.youtube.com/watch?v=vz5QHbGzSqY&t=170s)
