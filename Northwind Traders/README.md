@@ -1,6 +1,9 @@
 __This project was part of the competition [Maven Northwind Challenge](https://mavenanalytics.io/challenges/maven-northwind-challenge/24), which had nearly 300 entries, and although this project did not win, I received an honourable mention.__ <sup>(1)</sup>
 >_"Maximiliano Lafosse showcased some really solid design skills and kept the focus on just a handful of relevant metrics for the executives"_
 
+
+<img src="[http://url/image.png](https://ibb.co/PQqy6Pd)" >
+
 ## About this project
 
 The goal of this project is to develop a __KPI dashboard with key metrics for top-level executive team__, so I kept it as simple as possible to ease the readability to answer the most overall important questions for high level executives, while taking care of a good design.
